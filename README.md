@@ -1,4 +1,4 @@
-# Projet GameOn
+# [Projet GameOn](https://daddyjanno.github.io/GameOn-website-FR/)
 
 - A partir d'une base en HTML et CSS, le travail attendu consiste à ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.
 
